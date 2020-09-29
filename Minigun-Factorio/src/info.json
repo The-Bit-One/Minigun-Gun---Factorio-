@@ -1,0 +1,11 @@
+{
+    "name": "MiniGun",
+    "version": "0.0.1",
+    "title": "Minigun",
+    "author": "TheBitOne",
+    "contact": "https://hdprojects.dev/contact",
+    "homepage": "https://github.com/The-Bit-One/Minigun-Gun---Factorio-",
+    "factorio_version": "1.0",
+    "dependencies": [ "base >= 0.16" ],
+    "description": "Adds a minigun, for when the rate of fire of the SMG is too low"
+}
